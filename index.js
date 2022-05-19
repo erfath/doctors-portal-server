@@ -198,7 +198,7 @@ async function run() {
 run().catch(console.dir);
 
 app.get('/', (req, res) => {
-  res.send('Hello from Dr. Naila Nayem apuuuuuuu!')
+  res.send('Hello from Dr. Naila Nayem & Dr. Sabbir Likhon!')
 })
 
 app.listen(port, () => {
